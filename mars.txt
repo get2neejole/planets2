@@ -1,11 +1,14 @@
-pro 
+PRO: 
 everything is my favorite color
 no humidity
 good skiing
-martians
-con
+martians (friendly ones)
+
+CON:
 two moons 
 cold and dry
+martians (angry ones)
 
-Mars is a great to visit if it had an atmosphere
+Mars is a great to visit if it had an atmosphere.
+IDEA: build artificial environment for Mars
 
